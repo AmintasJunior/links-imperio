@@ -6,9 +6,9 @@
 
 :root {
   --text-color: white;
-  --bg-url: url(./assets/assets/bg-mobile-IMPERIO.png);
+  --bg-url: url(./assets/assets/PDV\ MOBILE\ 04.png);
   --stroke-color: rgba(255, 255, 255, 0.5);
-  --surface-color: rgba(255, 255, 255, 0.1);
+  --surface-color: rgba(255, 255, 255, 0.04);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
   --highlight-color: rgba(255, 255, 255, 0.02);
   --switch-bg-url: url(./assets/assets/moon-stars.svg);
