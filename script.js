@@ -13,8 +13,8 @@ function toggleMode() {
   const img = document.querySelector("#profile img")
 
   if (html.classList.contains("light")) {
-    img.setAttribute("src", "./assets/assets/avatar-light_.png")
+    img.setAttribute("src", "./assets/assets/avatar-light_.webp")
   } else {
-    img.setAttribute("src", "./assets/assets/avatar-dark.png")
+    img.setAttribute("src", "./assets/assets/avatar-dark.webp")
   }
 }
